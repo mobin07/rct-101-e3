@@ -1,0 +1,8 @@
+.box1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
